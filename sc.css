@@ -1,0 +1,61 @@
+body{
+    background-color: aliceblue;
+ margin-left: 7%;
+}
+.s0{
+    display: flex;
+    background-color: wheat;
+}
+.d0{
+    
+    
+    width: 75%;
+}
+.d1{
+    width: 25%;
+}
+
+.fas fa-trash-alt{
+    float: left;
+}
+img{
+    width:100px;
+}
+.x1{
+    border-style: groove;
+
+   
+}
+span{
+    bottom: 70px;
+    color: teal;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    color: coral;
+}
+h3{
+    color: red;
+}
+#e0{
+    padding-bottom: 20px;
+}
+#e1{
+    padding-bottom: 20px;
+}
+#e2{
+    padding-bottom: 20px;
+}
+#e3{
+    padding-bottom: 20px;
+}
+#e4{
+    padding-bottom: 20px;
+}.wo{
+
+
+    font-size: x-large;
+}
